@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-"I am a dedicated Computer Vision Engineer with a strong background in developing and implementing advanced solutions for visual data analysis. My expertise lies in leveraging algorithms and machine learning to derive valuable insights from complex visual datasets. Passionate about the limitless possibilities at the intersection of technology and human understanding, I am actively working towards becoming a full-stack Data Scientist. In my current role, I contribute to the entire computer vision pipeline – from meticulous data preprocessing to effective model deployment. Eager to further expand my skills and make meaningful contributions in the field of data science."
+"I am a dedicated Computer Vision Engineer. My expertise lies in leveraging algorithms and machine learning to derive valuable insights from complex  datasets. Passionate about the limitless possibilities at the intersection of technology and human understanding, I am actively working towards becoming a full-stack Data Scientist. In my current role, I contribute to the entire computer vision pipeline – from meticulous data preprocessing to effective model deployment. Eager to further expand my skills and make meaningful contributions."
 
 
 ## 🛠 Skills
